@@ -28,10 +28,12 @@ Each invocation creates a log file with all the generated output.
 ## Sources
 
 * zlib: http://zlib.net/
-* openssl: http://www.openssl.org/
-* sqlite: http://sqlite.org/
-* mysql-connnector-c: http://dev.mysql.com/downloads/connector/c/
-* proftpd: http://www.proftpd.org/
+* bzip: http://www.bzip.org/
+* lzma: http://tukaani.org/xz/
+* libjpeg: http://www.ijg.org/
+* libpng: http://www.libpng.org/pub/png/libpng.html
+* libtiff: http://www.libtiff.org/
+* ImageMagick: http://www.imagemagick.org/
 
 ## Help support the apps
 
